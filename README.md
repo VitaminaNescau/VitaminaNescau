@@ -1,5 +1,5 @@
 ## Sobre mim:
-  Meu nome é Vitor, sou um desenvolvedor back-end que gosta de brinca com o front as vezes.
+  Meu nome é Vitor, sou um desenvolvedor mobile.
 
 
 ## Contatos:
